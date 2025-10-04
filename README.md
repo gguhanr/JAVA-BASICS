@@ -5,6 +5,5 @@
 * java for looping
 * java while looping
 * java do-while looping
-(break, continue ,return);
 * jump statement in java
 * 
