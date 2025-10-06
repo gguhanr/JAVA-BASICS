@@ -6,4 +6,5 @@
 * java while looping
 * java do-while looping
 * jump statement in java
- (break, continue ,return);
+ (break, continue ,return)
+* java Methods
