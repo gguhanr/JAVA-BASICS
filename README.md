@@ -1,4 +1,5 @@
 ## JAVA-BASICS 
+* java variables 
 * java math 
 * java Boolean      
 * java condition statements 
