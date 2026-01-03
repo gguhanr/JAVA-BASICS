@@ -1,6 +1,6 @@
 ## JAVA-BASICS    
 * java variables  
-* java data types   
+* java data types      
 * java math   
 * java operators   
 * java Boolean         
