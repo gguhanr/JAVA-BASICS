@@ -5,7 +5,7 @@
 * java operators   
 * java Boolean                
 * java condition statements    
-*  java for looping               
+*  java for looping                  
 * java while looping                      
 * java do-while looping               
 * jump statement in java (break, continue ,return)   
