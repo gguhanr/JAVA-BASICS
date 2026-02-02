@@ -3,7 +3,7 @@
 * java data types         
 *  java math              
 * java operators                 
-* java Boolean                   
+* java Boolean                      
 * java condition statements                      
 *  java for looping                                 
 * java while looping                                                         
