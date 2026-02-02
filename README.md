@@ -1,7 +1,7 @@
 ## JAVA-BASICS    
 * java variables  
 * java data types         
-*  java math            
+*  java math              
 * java operators                 
 * java Boolean                   
 * java condition statements                      
