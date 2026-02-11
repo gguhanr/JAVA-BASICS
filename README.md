@@ -8,7 +8,7 @@
 *  java for looping                                        
 * java while looping                                                                
 * java do-while looping                                   
-* jump statement in java (break, continue ,return)          
+* jump statement in java (break, continue ,return)         
 * java Methods (Static method,instance methods,command line arguments)
 * java Strings                
 * java  StringBuffer class                             
