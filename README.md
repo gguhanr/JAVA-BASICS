@@ -12,7 +12,7 @@
 * java Methods (Static method,instance methods,command line arguments)
 * java Strings                
 * java  StringBuffer class                             
-* java StringBuilder class          
+* java StringBuilder class            
 * java number system                 
 * java access modifier        
 * java formate specifiers                                                                      
