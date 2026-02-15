@@ -1,4 +1,4 @@
-## JAVA-BASICS    
+## JAVA-BASICS       
 * java variables  
 * java data types                 
 *  java math                           
