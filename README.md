@@ -2,7 +2,7 @@
 * java variables    
 * java data types                    
 *  java math                                     
-* java operators                                    
+* java operators                                      
 * java Boolean                                 
 * java condition statements                                          
 *  java for looping                                                       
