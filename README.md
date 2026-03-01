@@ -1,5 +1,5 @@
 ## JAVA-BASICS       
-* java variables        
+* java variables         
 * java data types                                
 *  java math                                                   
 * java operators                                                  
